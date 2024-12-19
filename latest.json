@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-12-19T17:08:02.844Z",
+  "version": "0.1.7",
+  "notes": "Added current version in settings",
+  "pub_date": "2024-12-19T18:05:47.249Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRlhreC9LMjF3Mk96ZUJWVUViSmJpSXBjMGNZN2FmbE9vS1ZhVjZNbWlGeTRubkVsZjJUQ080OE9FcDhxWUNianpuQk1hMWtRZ3hlS3pSZTk0cmhUMmlaQWczL0NiQXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NjI4MDgwCWZpbGU6bG9sLWFmay12Ml8wLjEuNl94NjRfZW4tVVMubXNpCm5yRW51Y05hWEdTSW81QitoY244Rk0rVUxKQXhRR1U1NytNYitZWG1sTGVKZlMwMWVKb3ZxUHhVYVhCZVlsMUxTMUcva3pyWGZzT1lVZ3Y5RUFlckJRPT0K",
-      "url": "https://github.com/qwixck/lol-afk-v2-binaries/releases/download/v0.1.6/lol-afk-v2_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRlhreC9LMjF3MlBHazNmR0diVkZJakNQK05UVGlodWp1QXBHZkg0NlBaclhQcFJXdVBLOUVET3NRbXY1TGI0QW1zWUhLSXlVSlFTVEdNRDNLMTBWa2xacTd0U2gzRVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NjMxNTQ1CWZpbGU6bG9sLWFmay12Ml8wLjEuN194NjRfZW4tVVMubXNpCnEyTWg2UDhKOGQvSzYrV2xmaXQzWjZEUit4dGFLTHYwemZMODZpTzZxZko4N1RlNTNURDNZb0JYbkJydURoaG1lZXJGK0JqQVc5SGV3dzFHVy9MYkFnPT0K",
+      "url": "https://github.com/qwixck/lol-afk-v2-binaries/releases/download/v0.1.7/lol-afk-v2_0.1.7_x64_en-US.msi"
     }
   }
 }
