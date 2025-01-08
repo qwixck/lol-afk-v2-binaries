@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Small changes",
-  "pub_date": "2024-12-20T18:34:06.176Z",
+  "version": "0.1.9",
+  "notes": "feat: Added pick/ban",
+  "pub_date": "2025-01-08T14:08:22.717Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRlhreC9LMjF3MklDbnRUQTRZUEttK0M0cHdmVlQ1NlV6RTFVcWVLRVlrQzh5VGEzZnFubVNsZ2xDU0cvNm1hMnd5NDNTMmRDNGhMOUZGUENoT1pJWmlpdDM2SnpUYVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NzE5NjQzCWZpbGU6bG9sLWFmay12Ml8wLjEuOF94NjRfZW4tVVMubXNpCmkwZHBnamVwV2ZYL2h4UFh2ZVBQeW5lQk1CS1FYMmd5MHlVSHZDeFViQ2YzSkFpL1c4bExZdFlTeFM1bis4MG51bTl0TlZkNlpoY0tMa0pxV3NvZ0R3PT0K",
-      "url": "https://github.com/qwixck/lol-afk-v2-binaries/releases/download/v0.1.8/lol-afk-v2_0.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRlhreC9LMjF3Mkd6TW9SRllldzJ2eDltSSsxV3RZSVlRN2x5K1pMK29tNUQzQk05YUc3b1FyZEV5VlM3bVRVREhIMjFSNW1QQWdSVkVvcTdHRnF4WmZ6Y3d1eEc5YkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MzQ1MzAwCWZpbGU6bG9sLWFmay12Ml8wLjEuOV94NjRfZW4tVVMubXNpClNuSEdmSTl1elhPNTV4VlY2OFNkcW5uOGU3MElvZkZiT3JCa2Z3Zzhkbkt3UHRNTlBzeGpneGwvYzVWY2RZbWMycjd4RVlkY0ttWHZEd05uRHIrOUFRPT0K",
+      "url": "https://github.com/qwixck/lol-afk-v2-binaries/releases/download/v0.1.9/lol-afk-v2_0.1.9_x64_en-US.msi"
     }
   }
 }
